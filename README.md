@@ -126,7 +126,4 @@ Feel free to fork the repo, open an issue, or submit a pull request.
 
 ---
 
-## 💬 Credits
 
-Made with ❤ by [Your Name / GitHub Handle]  
-Inspired by the open-source Wi-Fi security community.
